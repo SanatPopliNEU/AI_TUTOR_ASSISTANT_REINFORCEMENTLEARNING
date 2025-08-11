@@ -9,7 +9,7 @@
 
 ## 🎯 **Assignment Overview**
 
-This project implements a **sophisticated multi-agent reinforcement learning system** for adaptive educational technology, fulfilling all requirements of the "Reinforcement Learning for Agentic AI Systems" take-home final. The system demonstrates advanced RL concepts through real-world application to personalized learning.
+This project implements a **sophisticated multi-agent reinforcement learning system** for adaptive educational technology, fulfilling all requirements of the "Reinforcement Learning for Agentic AI Systems". The system demonstrates advanced RL concepts through real-world application to personalized learning.
 
 ### **Core Achievement**
 ✅ **Complete RL Implementation** - DQN (Value-Based) + PPO (Policy Gradient) + Multi-Agent Coordination  
