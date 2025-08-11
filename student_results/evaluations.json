@@ -1,0 +1,233 @@
+[
+  {
+    "student_id": "DEMO001",
+    "student_name": "Demo Student",
+    "evaluation_date": "2025-08-09T23:56:40.912356",
+    "overall_performance": 0.9748289016294951,
+    "topic_performance": {
+      "mathematics": 0.8902400000000001,
+      "science": 0.84128,
+      "programming": 0.9279680000000001,
+      "language": 0.5
+    },
+    "difficulty_performance": {
+      "easy": 0.7281600000000001,
+      "medium": 1.0500247040000004,
+      "hard": 0.6880000000000001
+    },
+    "learning_velocity": 0.5797440000000003,
+    "engagement_score": 1.0,
+    "total_sessions": 7,
+    "total_interactions": 14,
+    "correct_responses": 14,
+    "detailed_responses": 12,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "programming",
+      "mathematics"
+    ],
+    "improvement_areas": [
+      "language"
+    ],
+    "strength_areas": [
+      "mathematics",
+      "programming"
+    ],
+    "learning_style": "reading"
+  },
+  {
+    "student_id": "DEMO001",
+    "student_name": "Demo Student",
+    "evaluation_date": "2025-08-09T23:57:09.026082",
+    "overall_performance": 1.0092596698928251,
+    "topic_performance": {
+      "mathematics": 0.7952000000000001,
+      "science": 0.8384,
+      "programming": 0.8710131200000002,
+      "language": 0.7952
+    },
+    "difficulty_performance": {
+      "easy": 0.8951424000000001,
+      "medium": 0.94474112,
+      "hard": 0.7744000000000001
+    },
+    "learning_velocity": 0.6499065600000002,
+    "engagement_score": 1.0,
+    "total_sessions": 7,
+    "total_interactions": 14,
+    "correct_responses": 14,
+    "detailed_responses": 12,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "programming",
+      "mathematics"
+    ],
+    "improvement_areas": [],
+    "strength_areas": [],
+    "learning_style": "reading"
+  },
+  {
+    "student_id": "DEMO001",
+    "student_name": "Demo Student",
+    "evaluation_date": "2025-08-09T23:59:17.829937",
+    "overall_performance": 1.026282085832634,
+    "topic_performance": {
+      "mathematics": 0.84128,
+      "science": 0.8672000000000002,
+      "programming": 0.8902400000000001,
+      "language": 0.7952
+    },
+    "difficulty_performance": {
+      "easy": 0.7670400000000002,
+      "medium": 1.0726016000000003,
+      "hard": 0.8723200000000001
+    },
+    "learning_velocity": 0.6969600000000002,
+    "engagement_score": 1.0,
+    "total_sessions": 7,
+    "total_interactions": 14,
+    "correct_responses": 14,
+    "detailed_responses": 12,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "programming",
+      "mathematics"
+    ],
+    "improvement_areas": [],
+    "strength_areas": [],
+    "learning_style": "reading"
+  },
+  {
+    "student_id": "002201005",
+    "student_name": "sanat",
+    "evaluation_date": "2025-08-10T00:02:30.721661",
+    "overall_performance": 0.4270579670000002,
+    "topic_performance": {
+      "mathematics": 0.42000000000000004,
+      "science": 0.44696000000000013,
+      "programming": 0.5444000000000001,
+      "language": 0.42000000000000004
+    },
+    "difficulty_performance": {
+      "easy": 0.42000000000000004,
+      "medium": 0.4734944000000001,
+      "hard": 0.4
+    },
+    "learning_velocity": -0.08431999999999984,
+    "engagement_score": 0.42299999999999993,
+    "total_sessions": 1,
+    "total_interactions": 7,
+    "correct_responses": 2,
+    "detailed_responses": 0,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "mathematics"
+    ],
+    "improvement_areas": [],
+    "strength_areas": [],
+    "learning_style": "reading"
+  },
+  {
+    "student_id": "123456789",
+    "student_name": "sanatt",
+    "evaluation_date": "2025-08-10T01:07:19.578842",
+    "overall_performance": 0.2930967910000001,
+    "topic_performance": {
+      "mathematics": 0.5,
+      "science": 0.3076800000000001,
+      "programming": 0.3576000000000001,
+      "language": 0.3560000000000001
+    },
+    "difficulty_performance": {
+      "easy": 0.3048000000000001,
+      "medium": 0.3096800000000001,
+      "hard": 0.4
+    },
+    "learning_velocity": -0.2393599999999998,
+    "engagement_score": 0.22299999999999978,
+    "total_sessions": 1,
+    "total_interactions": 7,
+    "correct_responses": 0,
+    "detailed_responses": 0,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "science"
+    ],
+    "improvement_areas": [],
+    "strength_areas": [
+      "mathematics"
+    ],
+    "learning_style": "kinesthetic"
+  },
+  {
+    "student_id": "6789543",
+    "student_name": "sanat",
+    "evaluation_date": "2025-08-11T11:22:26.642121",
+    "overall_performance": 0.4937102700000001,
+    "topic_performance": {
+      "mathematics": 0.538,
+      "science": 0.5,
+      "programming": 0.712,
+      "language": 0.31760000000000005
+    },
+    "difficulty_performance": {
+      "easy": 0.6239999999999999,
+      "medium": 0.38256000000000007,
+      "hard": 0.56
+    },
+    "learning_velocity": 0.03380000000000005,
+    "engagement_score": 0.5244,
+    "total_sessions": 1,
+    "total_interactions": 7,
+    "correct_responses": 3,
+    "detailed_responses": 2,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "1"
+    ],
+    "improvement_areas": [
+      "language"
+    ],
+    "strength_areas": [
+      "programming"
+    ],
+    "learning_style": "reading"
+  },
+  {
+    "student_id": "645321",
+    "student_name": "nik brown",
+    "evaluation_date": "2025-08-11T12:20:21.766189",
+    "overall_performance": 0.2925063010000001,
+    "topic_performance": {
+      "mathematics": 0.3576000000000001,
+      "science": 0.3560000000000001,
+      "programming": 0.3560000000000001,
+      "language": 0.42200000000000004
+    },
+    "difficulty_performance": {
+      "easy": 0.26384000000000013,
+      "medium": 0.3596000000000001,
+      "hard": 0.4
+    },
+    "learning_velocity": -0.25419999999999987,
+    "engagement_score": 0.22199999999999978,
+    "total_sessions": 1,
+    "total_interactions": 7,
+    "correct_responses": 0,
+    "detailed_responses": 0,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [
+      "1"
+    ],
+    "improvement_areas": [],
+    "strength_areas": [],
+    "learning_style": "visual"
+  }
+]

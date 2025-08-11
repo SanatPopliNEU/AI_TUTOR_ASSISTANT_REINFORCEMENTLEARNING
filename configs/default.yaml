@@ -1,0 +1,85 @@
+# Default configuration for the Adaptive Tutorial System
+
+# Environment Settings
+environment:
+  max_episode_steps: 50
+  question_bank_size: 100
+  topics: ['mathematics', 'science', 'programming', 'language']
+  
+# Reward Structure
+reward_weights:
+  correct_answer: 10.0
+  incorrect_answer: -5.0
+  engagement_bonus: 5.0
+  efficiency_bonus: 3.0
+  knowledge_growth: 15.0
+  motivation_bonus: 8.0
+
+# Agent Coordination
+coordination_mode: 'hierarchical'  # hierarchical, competitive, collaborative
+strategy_frequency: 5  # How often strategy agent can intervene
+
+# DQN Configuration for Content Agent
+dqn:
+  learning_rate: 1e-3
+  gamma: 0.99
+  epsilon_start: 1.0
+  epsilon_min: 0.01
+  epsilon_decay: 0.995
+  batch_size: 32
+  update_freq: 4
+  target_update_freq: 100
+  buffer_size: 10000
+
+# PPO Configuration for Strategy Agent  
+ppo:
+  learning_rate: 3e-4
+  gamma: 0.99
+  lambda_gae: 0.95
+  clip_epsilon: 0.2
+  value_coef: 0.5
+  entropy_coef: 0.01
+  max_grad_norm: 0.5
+  ppo_epochs: 4
+  batch_size: 64
+  buffer_size: 2048
+
+# Student Profile Configurations
+student_profiles:
+  beginner:
+    learning_rate: 0.7
+    attention_span: 0.6
+    difficulty_preference: 0.3
+    motivation: 0.8
+    knowledge_level: 0.2
+    mistake_tendency: 0.4
+    
+  intermediate:
+    learning_rate: 0.5
+    attention_span: 0.8
+    difficulty_preference: 0.6
+    motivation: 0.7
+    knowledge_level: 0.5
+    mistake_tendency: 0.2
+    
+  advanced:
+    learning_rate: 0.3
+    attention_span: 0.9
+    difficulty_preference: 0.8
+    motivation: 0.6
+    knowledge_level: 0.8
+    mistake_tendency: 0.1
+
+# Training Configuration
+training:
+  episodes: 1000
+  save_frequency: 100
+  evaluation_episodes: 50
+  early_stopping_patience: 200
+  convergence_threshold: 0.1
+
+# Logging
+logging:
+  level: INFO
+  log_file: 'logs/tutorial_system.log'
+  console_output: true
