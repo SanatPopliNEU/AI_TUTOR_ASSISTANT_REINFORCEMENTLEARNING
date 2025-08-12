@@ -200,5 +200,46 @@
     "improvement_trend": "stable",
     "engagement_level": "medium",
     "agent_coordination_mode": "hierarchical"
+  },
+  {
+    "session_id": "0987654_20250811_190000",
+    "student_id": "0987654",
+    "start_time": "2025-08-11T19:00:00.750528",
+    "end_time": "2025-08-11T19:04:21.270742",
+    "duration_minutes": 4.341700943311055,
+    "total_interactions": 7,
+    "topics_covered": [
+      "mathematics",
+      "science",
+      "programming",
+      "language"
+    ],
+    "difficulties_attempted": [
+      "easy",
+      "medium",
+      "hard"
+    ],
+    "average_reward": 0.3628571428571428,
+    "total_reward": 2.5399999999999996,
+    "improvement_trend": "stable",
+    "engagement_level": "medium",
+    "agent_coordination_mode": "competitive"
+  },
+  {
+    "session_id": "12345678_20250811_190921",
+    "student_id": "12345678",
+    "start_time": "2025-08-11T19:09:31.190642",
+    "end_time": "2025-08-11T19:12:22.644834",
+    "duration_minutes": 0.0,
+    "total_interactions": 7,
+    "topics_covered": [
+      "mathematics"
+    ],
+    "difficulties_attempted": [],
+    "average_reward": 0.6714285714285714,
+    "total_reward": 4.699999999999999,
+    "improvement_trend": "stable",
+    "engagement_level": "medium",
+    "agent_coordination_mode": "collaborative"
   }
 ]

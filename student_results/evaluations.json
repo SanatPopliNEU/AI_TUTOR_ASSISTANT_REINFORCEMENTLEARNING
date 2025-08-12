@@ -229,5 +229,34 @@
     "improvement_areas": [],
     "strength_areas": [],
     "learning_style": "visual"
+  },
+  {
+    "student_id": "0987654",
+    "student_name": "sanatpopli",
+    "evaluation_date": "2025-08-11T19:04:21.310217",
+    "overall_performance": 0.41439071000000005,
+    "topic_performance": {
+      "mathematics": 0.3852000000000001,
+      "science": 0.54,
+      "programming": 0.40408000000000005,
+      "language": 0.5
+    },
+    "difficulty_performance": {
+      "easy": 0.6488,
+      "medium": 0.2697440000000001,
+      "hard": 0.4
+    },
+    "learning_velocity": -0.08535999999999988,
+    "engagement_score": 0.4039999999999999,
+    "total_sessions": 1,
+    "total_interactions": 7,
+    "correct_responses": 3,
+    "detailed_responses": 0,
+    "accuracy_rate": 0.0,
+    "detailed_response_rate": 0.0,
+    "preferred_topics": [],
+    "improvement_areas": [],
+    "strength_areas": [],
+    "learning_style": "reading"
   }
 ]
